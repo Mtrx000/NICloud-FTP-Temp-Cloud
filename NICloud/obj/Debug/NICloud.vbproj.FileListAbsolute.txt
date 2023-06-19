@@ -1,0 +1,13 @@
+C:\Projects\NICloud\NICloud\bin\Debug\NICloud.exe.config
+C:\Projects\NICloud\NICloud\bin\Debug\NICloud.exe
+C:\Projects\NICloud\NICloud\bin\Debug\NICloud.pdb
+C:\Projects\NICloud\NICloud\bin\Debug\NICloud.xml
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.vbproj.AssemblyReference.cache
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.vbproj.SuggestedBindingRedirects.cache
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.Form1.resources
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.Resources.resources
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.vbproj.GenerateResource.cache
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.vbproj.CoreCompileInputs.cache
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.exe
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.xml
+C:\Projects\NICloud\NICloud\obj\Debug\NICloud.pdb

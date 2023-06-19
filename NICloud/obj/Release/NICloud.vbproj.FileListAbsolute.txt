@@ -1,0 +1,13 @@
+C:\Projects\NICloud\NICloud\bin\Release\NICloud.exe.config
+C:\Projects\NICloud\NICloud\bin\Release\NICloud.exe
+C:\Projects\NICloud\NICloud\bin\Release\NICloud.pdb
+C:\Projects\NICloud\NICloud\bin\Release\NICloud.xml
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.vbproj.AssemblyReference.cache
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.vbproj.SuggestedBindingRedirects.cache
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.Form1.resources
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.Resources.resources
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.vbproj.GenerateResource.cache
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.vbproj.CoreCompileInputs.cache
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.exe
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.xml
+C:\Projects\NICloud\NICloud\obj\Release\NICloud.pdb
